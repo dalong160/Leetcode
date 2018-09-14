@@ -15,3 +15,9 @@ class Solution {
         return solutions[n];
     }
 }
+
+//Time -> O(N)
+//Space -> O(N)
+
+
+//Dynamic Programming
